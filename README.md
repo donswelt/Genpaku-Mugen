@@ -6,6 +6,7 @@ Another M.U.G.E.N. character I made decades ago.
 - Download MUGEN from whereever it is available this age.
 - Unzip it to your Harddrive
 - Create the sub folder GENPAKU in MUGEN\CHARS\
+- Unzip folder GENPAKU.ZIP into MUGEN\CHARS\GENPAKU\
 - edit MUGEN\DATA\SELECT.CFG and insert the following line:
 
     genpaku
