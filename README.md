@@ -1,4 +1,4 @@
-# Genpaku-Mugen
+# Genpaku for Mugen
 Another M.U.G.E.N. character I made decades ago.
 
 ## How to install
